@@ -1,3 +1,4 @@
+#![deny(warnings)]
 #![feature(extern_types)]
 #![feature(arbitrary_enum_discriminant)]
 #![feature(associated_type_bounds)]
